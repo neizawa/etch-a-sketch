@@ -30,6 +30,7 @@ body {
 
 #header button:hover {
     background-color: aqua;
+    cursor: pointer;;
 }
 
 .container {
@@ -50,7 +51,6 @@ body {
 .row div {
     flex: 1 1 auto;
     background-color: aliceblue;
-    transition: all .1s;
 }
 
 .row div:hover {
